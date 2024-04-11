@@ -1,0 +1,40 @@
+
+.box {
+    width: 800px;
+    height: 400px;
+    font-family: Calibri;
+    font-size: 45px;
+    align-items: center;
+    margin: 0 auto;
+    padding-left: 25px;
+}
+
+.text{
+    font-family: Calibri;
+    font-size: 30px;
+    color: rgb(121, 124, 128);
+}
+
+.image {
+    width: 130px; /* Adjust width as needed */
+    height: 130px; /* Maintain aspect ratio */
+    float: right;
+    padding-right: 300px;
+    top: 50px;
+    right: 10px;
+    position: absolute;
+
+   
+}
+
+div.a{
+    height: 20px;
+    width: 725px;
+    border: 1px solid red;
+    background-color: orangered;
+    bottom: 10px;
+    align-items: center;
+    margin: 0 auto;
+    padding-left: 100px;
+    top: 100px;
+}
